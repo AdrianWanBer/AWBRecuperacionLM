@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+	background-color: beige;
+}
+
+
+.encabezado{
+	color: blue;
+	text-decoration:underline;
+	text-align: center;
+}
+.tabla{
+	font-size: 20px;
+}
+table, td, tr{
+	padding: 10px;
+	border: 1px solid blue;
+	border-collapse: collapse;
+}
+
+#piePagina{
+	background-color: black;
+	margin-top: 280px;
+	padding: 50px;
+	color: white;
+}
+
+.palabra{
+	color: green;
+}
+.erroneas{
+	color:red;
+}
